@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rachacuca.Equacoes", "Rachacuca.Equacoes\Rachacuca.Equacoes.csproj", "{754983E8-1012-4637-A406-739AD18051D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rachacuca.Expressoes", "Rachacuca.Equacoes\Rachacuca.Expressoes.csproj", "{754983E8-1012-4637-A406-739AD18051D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rachacuca.Equacoes.tests", "Rachacuca.Equacoes.tests\Rachacuca.Equacoes.tests.csproj", "{28B0F606-EF39-492E-B0BD-903F341E4C56}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rachacuca.Expressoes.tests", "Rachacuca.Equacoes.tests\Rachacuca.Expressoes.tests.csproj", "{28B0F606-EF39-492E-B0BD-903F341E4C56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

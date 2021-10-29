@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Rachacuca.Equacoes\Rachacuca.Equacoes.csproj" />
+    <ProjectReference Include="..\Rachacuca.Equacoes\Rachacuca.Expressoes.csproj" />
   </ItemGroup>
 
 </Project>
