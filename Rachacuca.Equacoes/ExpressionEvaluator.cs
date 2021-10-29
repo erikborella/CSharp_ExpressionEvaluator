@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Rachacuca.Equacoes
+namespace Rachacuca.Expressoes
 {
     public static class ExpressionEvaluator
     {

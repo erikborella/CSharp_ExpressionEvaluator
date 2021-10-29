@@ -1,11 +1,11 @@
-﻿using Rachacuca.Equacoes.Functions;
+﻿using Rachacuca.Expressoes.Functions;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Rachacuca.Equacoes
+namespace Rachacuca.Expressoes
 {
     public static class ExpressionParser
     {

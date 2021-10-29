@@ -1,11 +1,11 @@
-﻿using Rachacuca.Equacoes.Functions;
+﻿using Rachacuca.Expressoes.Functions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Rachacuca.Equacoes
+namespace Rachacuca.Expressoes
 {
     public static class StackMachine
     {

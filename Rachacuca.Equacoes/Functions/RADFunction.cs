@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Rachacuca.Equacoes.Functions
+namespace Rachacuca.Expressoes.Functions
 {
     public class RADFunction : BinaryFunction
     {

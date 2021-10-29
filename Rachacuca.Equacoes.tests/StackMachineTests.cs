@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using FluentAssertions;
 
-namespace Rachacuca.Equacoes.tests
+namespace Rachacuca.Expressoes.tests
 {
     [TestClass]
     public class StackMachineTests
